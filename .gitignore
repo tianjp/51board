@@ -1,0 +1,6 @@
+51board*
+*.OBJ
+*.LST
+STARTUP.A51
+main.__i
+!51board.uvproj
